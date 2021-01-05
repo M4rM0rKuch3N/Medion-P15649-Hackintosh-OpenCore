@@ -6,6 +6,7 @@
 * 8 GB DDR4 RAM (I upgraded mine to 16GB RAM)
 * I2C Touchpad (FTCS1000)
 * Intel AX201 Wifi/Bluetooth
+* Realtek ALC233 Audio Controller
 
 **Working**
 * Display
