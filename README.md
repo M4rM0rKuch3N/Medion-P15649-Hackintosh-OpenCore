@@ -20,6 +20,7 @@
 * Audio
 * iMessage/Facetime/Handoff
 * Audio combojack headphone port
+* sleep/wake
 
 **Not working (yet)**
 * Brightness / Volume Hotkeys
